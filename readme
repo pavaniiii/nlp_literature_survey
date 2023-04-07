@@ -1,0 +1,21 @@
+Topic: Question Answering and Information Retreival
+
+List of papers selected before 2010:
+1.Analysis of Statistical Question Classification for Fact-Based Questions : https://link.springer.com/article/10.1007/s10791-005-6995-3
+2.Automatic Detection of Causal Relations for Question Answering : https://dl.acm.org/doi/10.3115/1119312.1119322
+3.A probabilistic graphical model for joint answer ranking in question answering : https://www.researchgate.net/publication/221298978_A_probabilistic_graphical_model_for_joint_answer_ranking_in_question_answering
+
+List of papers selected from 2010-2014:
+1.Learning to Rank Answers to Non-Factoid Questions from Web Collections : https://direct.mit.edu/coli/article/37/2/351/2104/Learning-to-Rank-Answers-to-Non-Factoid-Questions
+2.Watson: Beyond Jeopardy! : https://www.sciencedirect.com/science/article/pii/S0004370212000872
+3.Probabilistic Tree-Edit Models with Structured Latent Variables for Textual Entailment and Question Answering : https://dl.acm.org/doi/10.5555/1873781.1873912
+
+List of papers selected from 2015-2019:
+1. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding : https://arxiv.org/abs/1810.04805
+2.Using Vector Space Model in Question Answering System : https://www.sciencedirect.com/science/article/pii/S1877050915020992
+3.Learning to Compose Neural Networks for Question Answering : https://arxiv.org/abs/1601.01705
+
+List of papers selected from 2020-2023:
+1.Dense Passage Retrieval for Open-Domain Question Answering : https://arxiv.org/abs/2004.04906
+2.Unsupervised Question Answering by Cloze Translation : https://aclanthology.org/P19-1484/
+3.Formal Query Building with Query Structure Prediction for Complex Question Answering over Knowledge Base : https://dl.acm.org/doi/10.5555/3491440.3491959
